@@ -36,7 +36,7 @@ The Windows version can be tested free of charge for **14 days**. After the tria
 ### 2️⃣ Calendar view
 
 <p align="center">
-  <img src="./screenshots/windows-calendar.png" alt="GLX Mail for Windows – calendar view" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Windows/blob/main/windows-calendar.png" alt="GLX Mail for Windows – calendar view" width="850">
 </p>
 
 ---
