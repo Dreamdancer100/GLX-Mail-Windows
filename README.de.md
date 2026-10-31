@@ -30,7 +30,7 @@ Die Windows-Version kann **14 Tage kostenlos** getestet werden. Nach Ablauf der 
 ### 1️⃣ Mail-Ansicht
 
 <p align="center">
-  <img src="./screenshots/windows-mail.png" alt="GLX Mail für Windows – Mail-Ansicht" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Windows/blob/main/windows-mail.png" alt="GLX Mail für Windows – Mail-Ansicht" width="850">
 </p>
 
 ### 2️⃣ Kalender-Ansicht
