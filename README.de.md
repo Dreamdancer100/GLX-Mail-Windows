@@ -80,9 +80,22 @@ Support: **info@glx-tools.de**
 
 ---
 
-## 📄 Lizenz
+## 📄 License
 
-GLX Mail für Windows ist kommerzielle Software von GLX Tools. Die geltenden Nutzungsrechte ergeben sich aus der über den GLX Tools Shop erworbenen Lizenz. Dieses Repository enthält Produktdokumentation und Screenshots.
+Copyright © 2026 GLX Tools – Gordon Lehmann.
+All rights reserved.
+
+GLX Mail is proprietary commercial software.
+No open-source license is granted.
+
+The software may only be used under the
+applicable license purchased through GLX Tools.
+
+This repository contains product documentation
+and screenshots. All rights to these materials
+are reserved by their respective copyright holders.
+
+GLX Mail Postfach is a hosted commercial service from GLX Tools. The applicable usage rights are defined by the license purchased through the GLX Tools shop. This repository provides product documentation and screenshots.
 
 ---
 
