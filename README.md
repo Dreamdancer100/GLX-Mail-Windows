@@ -27,17 +27,25 @@ The Windows version can be tested free of charge for **14 days**. After the tria
 
 ## 📸 Overview & Screenshots
 
-### 1️⃣ Mail view
+### 1️⃣ Welcome: create a GLX mailbox or add your own account
 
-<p align="center">
-  <img src="https://github.com/Dreamdancer100/GLX-Mail-Windows/blob/main/windows-mail.png" alt="GLX Mail for Windows – mail view" width="850">
-</p>
+<p align="center"><img src="screenshots/01-welcome.jpg" alt="Welcome: create a GLX mailbox or add your own account" width="850"></p>
 
-### 2️⃣ Calendar view
+### 2️⃣ Adding an email account
 
-<p align="center">
-  <img src="https://github.com/Dreamdancer100/GLX-Mail-Windows/blob/main/windows-calendar.png" alt="GLX Mail for Windows – calendar view" width="850">
-</p>
+<p align="center"><img src="screenshots/02-add-account.jpg" alt="Adding an email account" width="850"></p>
+
+### 3️⃣ Calendar month view
+
+<p align="center"><img src="screenshots/03-calendar.jpg" alt="Calendar month view" width="850"></p>
+
+### 4️⃣ Calendar week view in a light design
+
+<p align="center"><img src="screenshots/04-calendar-week-light.jpg" alt="Calendar week view in a light design" width="850"></p>
+
+### 5️⃣ Settings: designs and languages
+
+<p align="center"><img src="screenshots/05-settings-design.jpg" alt="Settings: designs and languages" width="850"></p>
 
 ---
 

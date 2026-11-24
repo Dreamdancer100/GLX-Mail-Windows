@@ -25,19 +25,27 @@ Die Windows-Version kann **14 Tage kostenlos** getestet werden. Nach Ablauf der 
 
 ---
 
-## 📸 Übersicht & Screenshots
+## 📸 Überblick & Screenshots
 
-### 1️⃣ Mail-Ansicht
+### 1️⃣ Willkommen: GLX-Postfach anlegen oder eigenes Konto eintragen
 
-<p align="center">
-  <img src="https://github.com/Dreamdancer100/GLX-Mail-Windows/blob/main/windows-mail.png" alt="GLX Mail für Windows – Mail-Ansicht" width="850">
-</p>
+<p align="center"><img src="screenshots/01-welcome.jpg" alt="Willkommen: GLX-Postfach anlegen oder eigenes Konto eintragen" width="850"></p>
 
-### 2️⃣ Kalender-Ansicht
+### 2️⃣ E-Mail-Konto hinzufügen
 
-<p align="center">
-  <img src="https://github.com/Dreamdancer100/GLX-Mail-Windows/blob/main/windows-calendar.png" alt="GLX Mail für Windows – Kalender-Ansicht" width="850">
-</p>
+<p align="center"><img src="screenshots/02-add-account.jpg" alt="E-Mail-Konto hinzufügen" width="850"></p>
+
+### 3️⃣ Kalender-Monatsansicht
+
+<p align="center"><img src="screenshots/03-calendar.jpg" alt="Kalender-Monatsansicht" width="850"></p>
+
+### 4️⃣ Kalender-Wochenansicht im hellen Design
+
+<p align="center"><img src="screenshots/04-calendar-week-light.jpg" alt="Kalender-Wochenansicht im hellen Design" width="850"></p>
+
+### 5️⃣ Einstellungen: Designs und Sprache
+
+<p align="center"><img src="screenshots/05-settings-design.jpg" alt="Einstellungen: Designs und Sprache" width="850"></p>
 
 ---
 
