@@ -25,6 +25,30 @@ Die Windows-Version kann **14 Tage kostenlos** getestet werden. Nach Ablauf der 
 
 ---
 
+## 📖 Über GLX Mail für Windows
+
+### Das E-Mail-Programm für deinen Windows-PC
+
+GLX Mail holt deine Mails von allen Anbietern, sortiert sie übersichtlich und sichert sie automatisch. Du trägst beliebig viele Konten ein, etwa web.de, GMX, Gmail, Outlook, T-Online oder deinen eigenen Server per IMAP oder POP3. Die Servereinstellungen findet GLX Mail selbst.
+
+### Übersichtlich und schnell
+
+Drei Spalten für Ordner, Mails und Vorschau, Ziehen und Ablegen in Ordner, Schnell-Buttons an jeder Mail, Mehrfachauswahl und eine schnelle Suche über alle Ordner. Spam meldest du mit einem Klick: Der Absender landet in der gemeinsamen Sperrliste von GLX Mail Guard und GLX Spam Guard.
+
+### Kalender und Adressbuch
+
+Der eingebaute Kalender zeigt Monat, Woche und Liste, verbindet Nextcloud-, iCloud- und andere CalDAV-Kalender und erinnert dich wie Outlook, mit Geburtstagen aus deinem Adressbuch.
+
+### Sichere Sicherungen
+
+Automatische Sicherungen von stündlich bis monatlich behalten die letzten fünf Stände, einzelne Mails oder ganze Ordner holst du mit einem Klick zurück. Passwörter und Sicherungen werden verschlüsselt.
+
+### Testen und Lizenz
+
+12 Designs, Deutsch und Englisch. 14 Tage kostenlos testen, danach eine Monats- oder Jahreslizenz, jederzeit umstellbar. Kein Abo mit Haken, es wird nichts automatisch abgebucht.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Willkommen: GLX-Postfach anlegen oder eigenes Konto eintragen

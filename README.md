@@ -25,6 +25,30 @@ The Windows version can be tested free of charge for **14 days**. After the tria
 
 ---
 
+## 📖 About GLX Mail for Windows
+
+### The email program for your Windows PC
+
+GLX Mail collects mail from all your providers, sorts it clearly and backs it up automatically. Add any number of accounts such as web.de, GMX, Gmail, Outlook, T-Online or your own server with IMAP or POP3; the server settings are found automatically.
+
+### Clear and fast
+
+Three columns for folders, mails and preview, drag and drop into folders, quick buttons at every mail, multiple selection and a fast search across all folders. Report spam with one click: the sender lands in the shared block list of GLX Mail Guard and GLX Spam Guard.
+
+### Calendar and address book
+
+The built-in calendar shows month, week and list, connects Nextcloud, iCloud and other CalDAV calendars and reminds you like Outlook, with birthdays from your address book.
+
+### Safe backups
+
+Automatic backups from hourly to monthly keep the last five versions, and single mails or whole folders come back with one click. Passwords and backups are encrypted.
+
+### Try and licence
+
+12 designs, German and English. Free for 14 days, then a monthly or yearly licence, switchable at any time. No subscription trap, nothing is charged automatically.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Welcome: create a GLX mailbox or add your own account
